@@ -1,5 +1,5 @@
 {
-    "name": "snhccm/aliyun-dysms-php-sdk",
+    "name": "qss/aliyun-dysms-php-sdk",
     "description": "aliyun sms for php",
     "license": "MIT",
     "type": "library",
